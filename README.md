@@ -32,7 +32,7 @@ A pharmaceutical manufacturer sells through wholesale distributors rather than d
 | Sales managers & reps | How do distributors compare? Who are the top 5 products, customers and cities? How do sales split across channels and sub-channels? |
 | Head of Sales | Which teams, managers and reps perform best? Which products and product classes drive each team's results? (Filterable by year and month) |
 
-<img width="1265" height="707" alt="Screenshot 2026-10-06 at 7 16 14 AM" src="https://github.com/user-attachments/assets/5ae08eb9-b5ac-43df-b33c-30d09df14b6f" />
+<img width="1438" height="813" alt="Screenshot 2026-10-06 at 7 15 39 AM" src="https://github.com/user-attachments/assets/afbc2bc5-28c7-4c12-a1a5-f8f12e841722" />
 
 ## Data
 Source: [Foresight BI practice datasets](https://foresightbi.com.ng/practice-data/3-datasets-for-your-portfolio/)
@@ -64,7 +64,7 @@ Before building anything, I profiled the dataset in Python to check its quality:
 
 Notebook: [`data-exploration.ipynb`](data-exploration.ipynb)
 
-<img width="1438" height="813" alt="Screenshot 2026-10-06 at 7 15 39 AM" src="https://github.com/user-attachments/assets/afbc2bc5-28c7-4c12-a1a5-f8f12e841722" />
+<img width="1265" height="707" alt="Screenshot 2026-10-06 at 7 16 14 AM" src="https://github.com/user-attachments/assets/5ae08eb9-b5ac-43df-b33c-30d09df14b6f" />
 
 ### 2. Cleaning (Power Query)
 - **TODO – e.g. renamed columns, set data types, handled negative sales**
