@@ -87,7 +87,7 @@ Distributor comparison with drill-down to products, plus top customers and citie
 Team, manager and rep performance, broken down by product and product class, with year and month slicers.
 
 ## Key Insights
-- **TODO – 3 to 5 findings from your dashboard, with numbers. This is the section recruiters read most.**
+- **TODO – 3 to 5 findings from your dashboard, with numbers.**
 
 ## Running It Yourself
 - Download [`pharma-analysis.pbix`](pharma-analysis.pbix). The data model is embedded, so no separate dataset download is required. Open it with the free [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
